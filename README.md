@@ -30,5 +30,6 @@ It is built in Python (Google Colab) with Random Forest Regressor as the final m
 4. Use the dropdowns to select match details and predict the score.  
 
 # Author
-KASHISH GROVER
-B.Tech CSE
+- KASHISH GROVER
+- B.Tech CSE
+- GitHub Profile (https://github.com/kashishgrover1805)
